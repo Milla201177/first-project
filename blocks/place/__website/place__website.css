@@ -1,0 +1,12 @@
+.place__website {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 122%;
+    align-self: end;
+}
+
+@media screen and (max-width: 600px) {
+    .place__website {
+        padding: 0 16px;
+    }
+}
