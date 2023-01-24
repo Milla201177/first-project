@@ -11,3 +11,8 @@
         line-height: 111%;
     }
 }
+
+.header__lang-link:hover {
+    opacity: 0.3;
+    cursor: pointer;
+}
