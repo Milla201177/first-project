@@ -1,9 +1,10 @@
 .place__text {
     display: flex;
     flex-direction: column;
+    gap: 26px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 600px) {
     .place__text {
         gap: 25px;
         padding: 0 16px;
